@@ -1,6 +1,6 @@
 {
   "name": "assignment1-comp229",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node server"
@@ -16,5 +16,18 @@
     "jquery": "^3.7.0",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "Assigment 1",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahaaNasir/Assignment1-COMP229-Maha.git"
+  },
+  "author": "Maha Nasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahaaNasir/Assignment1-COMP229-Maha/issues"
+  },
+  "homepage": "https://github.com/MahaaNasir/Assignment1-COMP229-Maha#readme"
 }
